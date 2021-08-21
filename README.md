@@ -7,7 +7,7 @@
 
 🌱 I’m student in `帝京大学　理工学部　情報科学科 通信教育課程`
 
-📝I regularly write articles on [Qiita](https://qiita.com/tundes) or [GitHub Page](https://tsubasaryuto.github.io/TechnicalNotes/)
+📝I regularly write articles on [Qiita](https://qiita.com/tundes) or [Output](https://zenn.dev/tsubasa_ryuto)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsubasaryuto&label=Profile%20views&color=0e75b6&style=flat" alt="tsubasaryuto" /> </p>
 
