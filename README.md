@@ -4,7 +4,7 @@
 
 🌱 I'm using for my work is **Ruby** and **JavaScript**.
 
-🌱 I’m currently learning **Flutter, Java, Go, C**
+🌱 I’m currently learning **Python Java, Go, C**
 
 🌱 I’m student in `帝京大学　理工学部　情報科学科 通信教育課程`
 
