@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Japan</h3>
 
 
-🌱 I'm using for my work is **Ruby** and **JavaScript**.
+🌱 I'm using for my work is **Ruby**, **JavaScript**, **TypeScript**
 
 🌱 I’m currently learning **Python Java, Go, C**
 
